@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/presave/static/css/main.31d6cfe0.css",
+    "main.js": "/presave/static/js/main.342f57a7.js",
+    "static/media/heino.png": "/presave/static/media/heino.1e0da29300cb07d079df.png",
+    "static/media/bljat.png": "/presave/static/media/bljat.cde964eb2ca4b51d94b9.png",
+    "static/media/rovin.png": "/presave/static/media/rovin.2c679c3fcc8353b290d0.png",
+    "static/media/logo-horisontal.png": "/presave/static/media/logo-horisontal.4d884528ce28565d8d83.png",
+    "static/media/rightUP.png": "/presave/static/media/rightUP.50911e5141030a8fee02.png",
+    "static/media/leftUP.png": "/presave/static/media/leftUP.c22c6873f2e784fe9f17.png",
+    "static/media/rightBOT.png": "/presave/static/media/rightBOT.2297d4f546a54d730b9f.png",
+    "static/media/leftBOT.png": "/presave/static/media/leftBOT.9cc82bf9ee7d37d5e7bf.png",
+    "static/media/radiation.svg": "/presave/static/media/radiation.993529073e930b9461cdf59018008e3c.svg",
+    "index.html": "/presave/index.html",
+    "main.342f57a7.js.map": "/presave/static/js/main.342f57a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.342f57a7.js"
+  ]
+}
